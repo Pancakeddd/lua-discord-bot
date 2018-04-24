@@ -1,0 +1,8 @@
+return {
+-- Table: {1}
+{
+   ["japan"]="CHING CHANG CHING CHONG",
+   ["something"]="Something is good about this ",
+   ["cancer"]="Iphynx ",
+},
+}
